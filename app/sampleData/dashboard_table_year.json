@@ -1,0 +1,20 @@
+{
+    "gridData" :[
+        {
+            "name": "Investment",
+            "data": [92236, 78250, 18800]
+        },
+        {
+            "name": "Loss",
+            "data": [10000, 11000, 9000]
+        },
+        {
+            "name": "Profit",
+            "data": [91236, 67250, 17900]
+        },
+        {
+            "name": "Maintenance",
+            "data": [0, 7009, 0]
+        }
+    ]
+}

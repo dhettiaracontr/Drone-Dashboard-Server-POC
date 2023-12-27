@@ -1,0 +1,28 @@
+{
+    "gridData" : [
+    { "customerId":"cs123", "name": "Joe James", "company": "Test Corp", "city": "Yonkers", "state": "NY", "boxes": [
+      {"boxNumber": "samb1234" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "pending" },
+      {"boxNumber": "samb5678" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "complete" },
+      {"boxNumber": "samb9009" , "districtId": "P", "buildingId": "A4", "damageType": "Re-lid", "status": "complete" },
+      {"boxNumber": "samb87654" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "rejected" }
+    ] },
+    { "customerId":"cs456", "name": "John Walsh", "company": "Test Corp", "city": "Hartford", "state": "CT", "boxes": [
+      {"boxNumber": "bo1234" , "districtId": "Q", "buildingId": "A12", "damageType": "Re-lid", "status": "complete" },
+      {"boxNumber": "bo5678" , "districtId": "Q", "buildingId": "A19", "damageType": "Re-box", "status": "payment-pending" },
+      {"boxNumber": "bo9009" , "districtId": "Q", "buildingId": "A12", "damageType": "Re-lid", "status": "complete" },
+      {"boxNumber": "bo87654" , "districtId": "Q", "buildingId": "A12", "damageType": "Re-box", "status": "rejected" }
+    ] },
+    { "customerId":"cs789", "name": "Bob Herm", "company": "Test Corp", "city": "Tampa", "state": "FL", "boxes": [
+      {"boxNumber": "spbo1234" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "pending" },
+      {"boxNumber": "spbo5678" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "complete" },
+      {"boxNumber": "spbo9009" , "districtId": "P", "buildingId": "A4", "damageType": "Re-lid", "status": "complete" },
+      {"boxNumber": "spbo87654" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "rejected" }
+    ] },
+    { "customerId":"cs987", "name": "James Houston", "company": "Test Corp", "city": "Dallas", "state": "TX", "boxes": [
+      {"boxNumber": "samb1234" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "pending" },
+      {"boxNumber": "samb5678" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "complete" },
+      {"boxNumber": "samb9009" , "districtId": "P", "buildingId": "A4", "damageType": "Re-lid", "status": "complete" },
+      {"boxNumber": "samb87654" , "districtId": "P", "buildingId": "A4", "damageType": "Re-box", "status": "rejected" }
+    ] }
+  ]
+}
