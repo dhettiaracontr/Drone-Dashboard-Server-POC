@@ -2,10 +2,10 @@
     "gridData": [{
     "data": [{
       "x": "Total Scan Boxes",
-      "y": 13
+      "y": 136
     }, {
       "x": "Damaged Boxes",
-      "y": 136
+      "y": 13
     }, {
       "x": "Good Boxes",
       "y": 103
