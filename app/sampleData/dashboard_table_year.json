@@ -1,20 +1,14 @@
 {
-    "gridData": [
-        {
-            "name": "Investment",
-            "data": [93000, 78000, 23302]
-        },
-        {
-            "name": "Loss",
-            "data": [27654, 12000, 9500]
-        },
-        {
-            "name": "Profit",
-            "data": [100825, 67000, 17800]
-        },
-        {
-            "name": "Maintenance",
-            "data": [10, 7000, 4322]
-        }
-    ]
+    "gridData": [{
+    "data": [{
+      "x": "Damaged",
+      "y": 987
+    }, {
+      "x": "Good",
+      "y": 6789
+    }, {
+      "x": "Not",
+      "y": 8909
+    }]
+    }]
 }
